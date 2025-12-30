@@ -2,9 +2,9 @@
 
 I'm currently a CS undergraduate at The Chinese University of Hong Kong (CUHK), and I'm a continual RL learner.
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="120">
+<td width="120" align="center">
 <img src="img/kkd.jpg" width="100" alt="Whiterr's True Form" /><br>
 <em>Whiterr's True Form</em>
 </td>
