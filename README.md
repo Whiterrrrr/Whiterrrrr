@@ -3,9 +3,9 @@
 I'm currently a CS undergraduate at The Chinese University of Hong Kong (CUHK), and I'm a continual RL learner.
 
 <a>
-  <img align="left" src="img/kkd.jpg"  width="100"/>
+  <img align="left" src="img/kkd.jpg" width="110" style="margin-left:24px;">
 </a>
 
-*I dream of a small, focused team <br>to create root-level work <br> with aspiration of craft over hype.*
+*I dream of a small, focused team to create root-level work <br> with aspiration of craft over hype.*
 
 *Algorithms define my life.* :)
