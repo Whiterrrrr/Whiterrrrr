@@ -1,5 +1,5 @@
 ## Hi there 👋, this is Whiterr!
-<div align="center"> <table> <tr> 
+<div align="center"> <table style="border: none;"> <tr> 
     <td align="center" width="25%"> 
     <img src="img/kkd.jpg" width="100" alt="Whiterr's True Form"> <br> 
     <em>Whiterr's True Form</em> </td> 
